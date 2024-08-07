@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "fa23635e1a96ac18",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef391507474da074",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed502d546692cfc0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "14c48d6c5ae5d522",
+    "type": "split",
+    "children": [
+      {
+        "id": "9db338833203729d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a07793d742340035",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "28ff00bd1418b6de",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dc3eef9da32eb984",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "111edb3e03a79ee8",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c98a026f01f8a4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98946c7937f6777b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2455855ac026d2cc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "05c3617fcdb00526",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fa4423b97ffc6e11",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false
+    }
+  },
+  "active": "ed502d546692cfc0",
+  "lastOpenFiles": [
+    "程式語言/Python_爬蟲/MD/基本標籤/特殊符號.md",
+    "程式語言/Python_爬蟲/MD/基本標籤/插入圖片.md",
+    "程式語言/Python_爬蟲/MD/基本標籤/跑馬燈.md",
+    "程式語言/Python_爬蟲/MD/基本標籤/標題1~6.md",
+    "程式語言/Python_爬蟲/MD/基本標籤/置中.md",
+    "程式語言/Python_爬蟲/MD/基本標籤/超連結.md",
+    "程式語言/Python_爬蟲/MD/基本標籤/無序清單.md",
+    "程式語言/Python_爬蟲/MD/基本標籤/粗_斜_底.md",
+    "程式語言/Python_爬蟲/MD/基本標籤/水平線.md",
+    "程式語言/Python_爬蟲/MD/基本標籤/有序清單.md",
+    "程式語言/Python_爬蟲/MD/主要標籤/HTML_主要標籤.md"
+  ]
+}
