@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "d7629f154eaee166",
+    "type": "split",
+    "children": [
+      {
+        "id": "93884622684f4b91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a930f0eba1b4bd7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/Obsidian_Github_Setting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "95700f81c4c15560",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9ea9f6d4bcbf2a66",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "df56f2996649dc10",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "2c70f3a93d103072",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "5c02d12cf0e4bc8e",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "d1d37a6c87a291ec",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8fdf0f07432b7629",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Obsidian/Obsidian_Github_Setting.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "37346ee193c44b39",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Obsidian/Obsidian_Github_Setting.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "65e5f1ba88a6cc61",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Obsidian/Obsidian_Github_Setting.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false
+    }
+  },
+  "active": "a930f0eba1b4bd7c",
+  "lastOpenFiles": [
+    "Screenshot_20240728-180046.png",
+    "Screenshot_20240728-180034.png",
+    "README.md",
+    "Obsidian/Obsidian_Github_Setting.md",
+    "Obsidian/Images/token.png",
+    "Obsidian/Images/iOS_Obsidian.png",
+    "Obsidian/Images/github_http.png",
+    "Obsidian/Images/Termux.png",
+    "Obsidian/Images/Obsidian/Vault_setting.png",
+    "Obsidian/Images/Obsidian/Search_Git.png",
+    "Obsidian/Images/Obsidian/Installed_Git.png",
+    "Obsidian/Images/Obsidian/Enter_Code.png",
+    "Obsidian/Images/Obsidian/Create_vault.png",
+    "Obsidian/Android_Termux_Git_Setting.md",
+    "MarkDown.code-profile",
+    "Obsidian/Images/Obsidian",
+    "Obsidian/Images",
+    "Obsidian"
+  ]
+}
