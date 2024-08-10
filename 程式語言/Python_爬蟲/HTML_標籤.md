@@ -475,7 +475,7 @@
 </head>
 
 <body>
-    <audio controls="controls">
+    <video controls="controls">
         <source src="..\網頁範例\assets\music\王ok-唇膏.mp3">
         瀏覽器不支援此播放格式
     </audio>

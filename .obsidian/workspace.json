@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "置中",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -159,16 +160,23 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "e6c79363849df8bf",
+  "active": "96b5b7a319150ac1",
   "lastOpenFiles": [
     "程式語言/Python_爬蟲/老師筆記連結網址.md",
+    "Unit_6_Homework_網頁/assets/images/標題.gif",
+    "Unit_6_Homework_網頁/assets/images/標題.mp4",
     "程式語言/Python_爬蟲/HTML_標籤.md",
+    "Unit_6_Homework_網頁/assets/images/背景.png",
+    "Unit_6_Homework_網頁/assets/images/首頁/首頁.png",
+    "Unit_6_Homework_網頁/assets/images/首頁/聯絡我們.png",
+    "Unit_6_Homework_網頁/assets/images/首頁/產品介紹.png",
+    "Unit_6_Homework_網頁/assets/images/首頁/影片介紹.png",
+    "Unit_6_Homework_網頁/assets/images/首頁/關於我們.png",
+    "Unit_6_Homework_網頁/assets/images/首頁",
+    "Unit_6_Homework_網頁/assets/images/新增資料夾",
     "網頁範例/assets/images/mail.jpg",
     "網頁範例/assets/images/X.jpg",
     "網頁範例/assets/images/messenger.jpg",
-    "網頁範例/assets/images/臉書.jpg",
-    "網頁範例/assets/images/地址.png",
-    "網頁範例/assets/images/電話.png",
     "網頁範例/assets/images/電話.png.crdownload",
     "網頁範例/表單 copy.html",
     "網頁範例/表單.html",
@@ -176,7 +184,6 @@
     "網頁範例/pages/a4.html",
     "網頁範例/pages/a3.html",
     "程式語言/Python_爬蟲/File",
-    "程式語言/Python_爬蟲/File/網頁共用框架 iframe.png",
     "程式語言/Python/串列.md",
     "images/obsidian_github_setting/personal_access_token.png.md",
     "程式設定/Obsidian/Github_Setting.md",
@@ -199,9 +206,6 @@
     "程式語言/Python_爬蟲/標籤/基本標籤/斷行_段落_格式化.md",
     "程式語言/Python_爬蟲/標籤/基本標籤/崁入Google地圖.md",
     "程式語言/Python_爬蟲/標籤/基本標籤/表格.md",
-    "程式語言/Python_爬蟲/標籤/基本標籤/崁入本機影片.md",
-    "網頁範例/pages/a2.html",
-    "網頁範例/pages/a1.html",
-    "網頁範例/index.html"
+    "程式語言/Python_爬蟲/標籤/基本標籤/崁入本機影片.md"
   ]
 }
