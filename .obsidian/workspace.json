@@ -1,35 +1,52 @@
 {
   "main": {
-    "id": "fa23635e1a96ac18",
+    "id": "adaaec52533ca3db",
     "type": "split",
     "children": [
       {
-        "id": "ef391507474da074",
+        "id": "584fcde0e231c645",
         "type": "tabs",
         "children": [
           {
-            "id": "ed502d546692cfc0",
+            "id": "162f579d545a3a04",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "程式語言/Python_爬蟲/HTML_標籤.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c67618c0e3af70d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "程式語言/Python_爬蟲/HTML_標籤.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "14c48d6c5ae5d522",
+    "id": "e16d816d7c52cc11",
     "type": "split",
     "children": [
       {
-        "id": "9db338833203729d",
+        "id": "df384436d46d2730",
         "type": "tabs",
         "children": [
           {
-            "id": "a07793d742340035",
+            "id": "e6c79363849df8bf",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +56,7 @@
             }
           },
           {
-            "id": "28ff00bd1418b6de",
+            "id": "014954e5a9fce8b0",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +71,7 @@
             }
           },
           {
-            "id": "dc3eef9da32eb984",
+            "id": "96b5b7a319150ac1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,19 +85,20 @@
     "width": 300
   },
   "right": {
-    "id": "111edb3e03a79ee8",
+    "id": "5a6f2d2308a33dae",
     "type": "split",
     "children": [
       {
-        "id": "2c98a026f01f8a4f",
+        "id": "fe41b13bdf3be8a7",
         "type": "tabs",
         "children": [
           {
-            "id": "98946c7937f6777b",
+            "id": "d5e1cd7fec1a9d8b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "程式語言/Python_爬蟲/HTML_標籤.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +110,19 @@
             }
           },
           {
-            "id": "2455855ac026d2cc",
+            "id": "a012d0e8ee27f2f4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "程式語言/Python_爬蟲/HTML_標籤.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "05c3617fcdb00526",
+            "id": "d7f10354dbe9d362",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,12 +133,12 @@
             }
           },
           {
-            "id": "fa4423b97ffc6e11",
+            "id": "723b750eb90f04eb",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "？古代文明的科學體系.md"
+                "file": "程式語言/Python_爬蟲/HTML_標籤.md"
               }
             }
           }
@@ -132,7 +151,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "workspaces:管理工作區配置": false,
       "switcher:開啟快速切換": false,
       "graph:查看關聯圖": false,
       "canvas:建立新畫布": false,
@@ -141,42 +159,49 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "a07793d742340035",
+  "active": "e6c79363849df8bf",
   "lastOpenFiles": [
-    "bilibili/？古代文明的科學體系.md",
-    "2024-08-09.md",
-    "中華文化/人紀/針灸大成/？編輯中.md",
-    "bilibili/？古代給萬物定性.md",
-    "程式語言/Python/串列_List/讀取串列.md",
-    "程式語言/Python_爬蟲/Sourse/基本標籤/斷行_段落_格式化.html",
-    "程式語言/Python_爬蟲/Sourse/主要標籤/HTML_主要標籤.html",
-    "程式語言/Python_爬蟲/Sourse/基本標籤/標題1~6.html",
-    "程式語言/Python_爬蟲/Sourse/基本標籤/粗_斜_底.html",
-    "程式語言/Python_爬蟲/Sourse/基本標籤/特殊符號.html",
-    "程式語言/Python_爬蟲/Sourse/基本標籤/有序清單.html",
-    "程式語言/Python_爬蟲/Sourse/基本標籤/無序清單.html",
-    "程式語言/Python_爬蟲/Sourse/基本標籤/變更字體.html",
-    "程式語言/Python_爬蟲/Sourse/基本標籤/插入圖片.html",
-    "程式語言/Python_爬蟲/Sourse/基本標籤/跑馬燈.html",
-    "？古代文明的科學體系.md",
-    "？古代給萬物定性.md",
-    "程式語言/Python_爬蟲/Sourse/基本標籤/images/實作練習2.png",
-    "程式語言/Python_爬蟲/Sourse/基本標籤/images/bg1.jpg",
-    "程式語言/Python_爬蟲/MD/基本標籤/表格.md",
-    "程式語言/Python_爬蟲/MD/基本標籤/特殊符號.md",
-    "程式語言/Python_爬蟲/MD/基本標籤/斷行_段落_格式化.md",
-    "程式語言/Python_爬蟲/MD/基本標籤/跑馬燈.md",
-    "程式語言/Python_爬蟲/MD/基本標籤/有序清單.md",
-    "程式語言/Python_爬蟲/MD/主要標籤/HTML_主要標籤.md",
-    "程式語言/Python_爬蟲/MD/基本標籤/無序清單.md",
-    "程式語言/Python_爬蟲/MD/基本標籤/水平線.md",
-    "程式語言/Python_爬蟲/MD/基本標籤/標題1~6.md",
-    "程式語言/Python_爬蟲/MD/基本標籤/超連結.md",
-    "程式語言/Python_爬蟲/MD/基本標籤/按鈕.md",
-    "程式語言/Python_爬蟲/MD/基本標籤/插入圖片.md",
-    "程式語言/Python_爬蟲/MD/基本標籤/置中.md",
-    "程式語言/Python_爬蟲/MD/基本標籤/粗_斜_底.md",
-    "程式語言/Python/串列_List/串列統計.md",
-    "程式語言/Python/串列_List/串列切片.md"
+    "程式語言/Python_爬蟲/老師筆記連結網址.md",
+    "程式語言/Python_爬蟲/HTML_標籤.md",
+    "網頁範例/assets/images/mail.jpg",
+    "網頁範例/assets/images/X.jpg",
+    "網頁範例/assets/images/messenger.jpg",
+    "網頁範例/assets/images/臉書.jpg",
+    "網頁範例/assets/images/地址.png",
+    "網頁範例/assets/images/電話.png",
+    "網頁範例/assets/images/電話.png.crdownload",
+    "網頁範例/表單 copy.html",
+    "網頁範例/表單.html",
+    "網頁範例/pages/a5.html",
+    "網頁範例/pages/a4.html",
+    "網頁範例/pages/a3.html",
+    "程式語言/Python_爬蟲/File",
+    "程式語言/Python_爬蟲/File/網頁共用框架 iframe.png",
+    "程式語言/Python/串列.md",
+    "images/obsidian_github_setting/personal_access_token.png.md",
+    "程式設定/Obsidian/Github_Setting.md",
+    "程式設定/Termux/Git_Setting.md",
+    "程式語言/Python/串列_List/串列.md",
+    "程式語言/Python_爬蟲/標籤/基本標籤/水平線.md",
+    "程式語言/Python_爬蟲/標籤/主要標籤/HTML_主要標籤.md",
+    "程式語言/Python_爬蟲/標籤/主要標籤/HTML_標籤.md",
+    "程式語言/Python_爬蟲/標籤/基本標籤/跑馬燈.md",
+    "程式語言/Python_爬蟲/標籤/基本標籤/有序清單.md",
+    "程式語言/Python_爬蟲/標籤/基本標籤/超連結.md",
+    "程式語言/Python_爬蟲/標籤/基本標籤/插入圖片.md",
+    "程式語言/Python_爬蟲/標籤/基本標籤/粗_斜_底.md",
+    "程式語言/Python_爬蟲/標籤/基本標籤/特殊符號.md",
+    "程式語言/Python_爬蟲/標籤/基本標籤/按鈕.md",
+    "程式語言/Python_爬蟲/標籤/基本標籤/崁入本機音樂.md",
+    "程式語言/Python_爬蟲/標籤/基本標籤/無序清單.md",
+    "程式語言/Python_爬蟲/標籤/基本標籤/置中.md",
+    "程式語言/Python_爬蟲/標籤/基本標籤/標題1~6.md",
+    "程式語言/Python_爬蟲/標籤/基本標籤/斷行_段落_格式化.md",
+    "程式語言/Python_爬蟲/標籤/基本標籤/崁入Google地圖.md",
+    "程式語言/Python_爬蟲/標籤/基本標籤/表格.md",
+    "程式語言/Python_爬蟲/標籤/基本標籤/崁入本機影片.md",
+    "網頁範例/pages/a2.html",
+    "網頁範例/pages/a1.html",
+    "網頁範例/index.html"
   ]
 }
